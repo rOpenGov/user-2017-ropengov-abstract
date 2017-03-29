@@ -9,7 +9,7 @@ institute:
    - $^1$Juans Casa
    - $^2$Tus Place
 output: html_document
-bibliography: biblioExample.bib
+bibliography: bibliography.bib
 nocite: | 
   @ref2, @ref3
 ---
