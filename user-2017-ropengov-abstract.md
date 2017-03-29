@@ -1,9 +1,9 @@
 ---
 title: "Teaching with R: 10 simple rules for learning statistical programming"
-author: Lahti L^1^, Lehtomäki J^2^, and Kainu M^3^
-institute: 
-   - $^1$Department of Mathematics and Statistics, University of Turku, Finland
-   - $^2$Tus Place
+author:
+  Lahti L^1^, Lehtomäki J^2^, and Kainu M^3^
+  $^1$Department of Mathematics and Statistics, University of Turku, Finland
+  $^2$Tus Place
 output:
   pdf_document
 bibliography:
