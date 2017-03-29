@@ -14,6 +14,16 @@ nocite: |
   @ref2, @ref3
 ---
 
+Abstracts should not exceed one side of A4 paper when printed and should not include images.
+
+If you mention a programming language like *R*, italicize the language name.
+
+If you mention an *R* function `foo`, typeset the function name as code.
+
+If you mention an *R* package **fooPkg**, typeset the package name in bold.
+
+
+
 **Keywords**: First, Second, ..., up to 5 keywords
 
 **Webpages**: https://CRAN.R-project.org/package=mypkg, https://rpubs.com/username/project
