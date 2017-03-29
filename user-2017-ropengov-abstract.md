@@ -21,7 +21,7 @@ nocite: |
 This abstract template can be rendered as *HTML* using the **rmarkdown** package, e.g.
 
     library(rmarkdown)
-    render("abstract_template.md")
+    render("user-2017-ropengov-abstract.md")
     
 or using the shortcuts provided in your IDE for *R*.
 
