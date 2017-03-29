@@ -14,32 +14,46 @@ bibliography:
 
 **Webpages**: [https://ropengov.github.io](https://ropengov.github.io)
 
-Pedagogical aspects and best practices in teaching with R
 
-  1. Open science in practice. Good experiences that students can start from a simple Rmarkdown workflow and expand that.
-  1. tidy data principles 
-  1. Reproducible research / workflows. Potential of R packages (targeted tools, open science, reproducible research) easier to explain to experienced statisticians that have years of experience on repetitive tasks; compared to undergraduate students. 
-  1. Code review
-  1. Open collaboration model. If teaching is coupled with open collaboration model ie. straight from start using custom built R package, this can highlight the open development model and its dynamic potential. Not just a free replacement for commercial stats software but a collaborative platform for developing solutions and utilities, including ggplot themes, raport templates, rstudio-add-ins, shiny-modules, database functions etc.
-  1. Levels of teaching (from beginner to advanced statisticians)
+
+Pedagogical aspects and best practices in teaching with R. Transition of Statistics courses to a modern active learning format. Facilitating interactive learning. 
+
+
+**Open science in practice**
+
+Students can start from a simple Rmarkdown workflow and expand that.
+
+Reproducible research / workflows. Potential of R packages (targeted tools, open science, reproducible research) easier to explain to experienced statisticians that have years of experience on repetitive tasks; compared to undergraduate students. 
+
+Good Enough Practices for Scientific Computing @Wilson2016
+
+Tidy data principles
+
+**Code review**
+
+**Open collaboration model**
+
+If teaching is coupled with open collaboration model ie. straight from start using custom built R package, this can highlight the open development model and its dynamic potential. Not just a free replacement for commercial stats software but a collaborative platform for developing solutions and utilities, including ggplot themes, raport templates, rstudio-add-ins, shiny-modules, database functions etc.
+
+**Levels of teaching**
+
+From beginner to advanced statisticians.
 
 Academy vs. Public sector ?
 
 Fast to the level of "getting things done" (avoid the trap of many programs)
 
-Transition of Statistics courses to a modern active learning format. 
 
-Facilitating interactive learning. 
+**Educational resources**
+
+R community could better support teaching with R by.. collections of open teaching materials, sharing best practices etc..
 
 Research and collect learning goals and existing active learning materials; facilitate the identification, development, and/or improvement of learning goals for the course; research and develop measures of students’ prior knowledge; develop activities, problem sets, pre-class preparation assignments, and other curricular materials that target the learning goals. 
 
 Document and archive course materials on Github and Canvas using modern sustainable techniques that facilitate collaboration and sharing. 
 
-Developing educational resources for population genetics in R: an open and collaborative approach @Kamvar2017
+Developing educational resources in R: an open and collaborative approach with open tutorial collections @Kamvar2017
 
-Textual citations, e.g., @Wilson2016 jumped over the fence, and parenthetical citations, e.g., the fence was jumped [@Wilson2016], may appear within the abstract.
-
-R community could better support teaching with R by.. collections of open teaching materials, sharing best practices etc..
 
 
 
