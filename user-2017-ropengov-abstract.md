@@ -1,9 +1,9 @@
 ---
 title: "Ten simple rules for learning statistical programming"
 author:
-  Lahti L^1^, Lehtomäki J^2^, and Kainu M^3^
+  Lahti L^1^, Lehtomäki J^2^, and Kainu M^3
   $^1$Department of Mathematics and Statistics, University of Turku, Finland
-  $^2$Tus Place
+  $^2$Department of Earth Sciences, VU Amsterdam
 output:
   pdf_document
 bibliography:
