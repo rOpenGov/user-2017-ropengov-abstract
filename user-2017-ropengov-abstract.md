@@ -25,7 +25,7 @@ The R community could further support teaching with R by documenting and archivi
 
 By pooling the material and experience from personal and collective experiences, we aimed to facilitate the uptake of computational tools in various institutions. Based on our combined experience from universities, research institutes, and the public sector, we aimed to summarize key ingredients for successful teaching of modern data science, facilitated by the versatile toolkit that the R ecosystem and its active user communities can provide.
 
-**Having fun** is important throughout the process. Gamification of assignments with real-time rankings or custom functions performing non-statistical operations like emailing gif images can raise awareness of how R as a full-fledged programming language differs from proprietary statistical packages. 
+**Having fun** is important throughout the process. Combining assignments with real-time rankings or custom functions performing non-statistical operations like emailing gif images can raise awareness of R as a full-fledged programming language in contrast to proprietary statistical packages. 
 
 
 
